@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OdataClase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b063ead848cecf6065e25be8acb9051565a95bdd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1dcd215c8dbeb037787f871e48e1a3e9b26294a")]
 [assembly: System.Reflection.AssemblyProductAttribute("OdataClase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OdataClase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
