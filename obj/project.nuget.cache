@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mdAzvmoIReg=",
+  "dgSpecHash": "fleSHC0q8bA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\luism\\Desktop\\Actividad\\OdataClase\\OdataClase\\OdataClase.csproj",
+  "projectFilePath": "C:\\Users\\luism\\Desktop\\Actividad\\GITHUBODATA\\Odataclase\\OdataClase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luism\\.nuget\\packages\\microsoft.aspnetcore.odata\\9.3.1\\microsoft.aspnetcore.odata.9.3.1.nupkg.sha512",
     "C:\\Users\\luism\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",

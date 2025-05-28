@@ -452,11 +452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luism\\Desktop\\Actividad\\OdataClase\\OdataClase\\OdataClase.csproj",
+      "projectUniqueName": "C:\\Users\\luism\\Desktop\\Actividad\\GITHUBODATA\\Odataclase\\OdataClase.csproj",
       "projectName": "OdataClase",
-      "projectPath": "C:\\Users\\luism\\Desktop\\Actividad\\OdataClase\\OdataClase\\OdataClase.csproj",
+      "projectPath": "C:\\Users\\luism\\Desktop\\Actividad\\GITHUBODATA\\Odataclase\\OdataClase.csproj",
       "packagesPath": "C:\\Users\\luism\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luism\\Desktop\\Actividad\\OdataClase\\OdataClase\\obj\\",
+      "outputPath": "C:\\Users\\luism\\Desktop\\Actividad\\GITHUBODATA\\Odataclase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luism\\AppData\\Roaming\\NuGet\\NuGet.Config"
